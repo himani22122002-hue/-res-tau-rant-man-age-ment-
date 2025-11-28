@@ -8,6 +8,6 @@
 
 # Generate bills automatically
 
-# Secure MySQL database connectivity
+# Secure MySQL database connectivity.
 
 # User-friendly and modular Python code.
