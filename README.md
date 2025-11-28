@@ -4,7 +4,7 @@
 
 # Manage menu items (add, update, delete)
 
-# Handle customer orders efficiently
+# Handle customer orders efficiently.
 
 # Generate bills automatically.
 
