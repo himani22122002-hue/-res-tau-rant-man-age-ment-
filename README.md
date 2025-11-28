@@ -6,7 +6,7 @@
 
 # Handle customer orders efficiently
 
-# Generate bills automatically
+# Generate bills automatically.
 
 # Secure MySQL database connectivity.
 
