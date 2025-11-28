@@ -10,4 +10,4 @@
 
 # Secure MySQL database connectivity
 
-# User-friendly and modular Python code
+# User-friendly and modular Python code.
